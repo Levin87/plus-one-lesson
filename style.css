@@ -24,7 +24,7 @@ body{
     color: #273d46;
 }
 .block li{
-    background: url(/check_icon.png) left no-repeat ;
+    background: url(./check_icon.png) left no-repeat ;
     padding-left: 30px;
 }
 
@@ -68,7 +68,7 @@ body{
     font-size: 20px;
     line-height: 36px;
     color: red;
-    background: url(/check_icon_red.png) left no-repeat;
+    background: url(../check_icon_red.png) left no-repeat;
 }
 
 .block li:nth-child(7){
@@ -81,7 +81,7 @@ body{
     
 }
 .textbutton {
-    background: url(/Shape_2.png)  80% no-repeat;
+    background: url(./Shape_2.png)  80% no-repeat;
     width: 199px;
     height: 44px;
     box-shadow: 0 6px 40px rgba(128, 183, 179, 0.54);
