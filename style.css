@@ -68,7 +68,7 @@ body{
     font-size: 20px;
     line-height: 36px;
     color: red;
-    background: url(check_icon_red.png) left no-repeat;
+    background: url(red.png) left no-repeat;
 }
 
 .block li:nth-child(7){
